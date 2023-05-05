@@ -1,0 +1,25 @@
+#root{
+  height: 100vh;
+  /* background-color: red;  */
+  display: flex;
+  justify-content: center;
+ }
+.main-div{
+  background-color: beige;
+  width: 100%;
+  display: flex;
+  justify-content: center ;
+  flex-direction: column;
+  align-items: center;
+}
+
+form{
+  width: 30vh;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+input{
+  border-radius:1vh;
+}
